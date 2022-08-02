@@ -9,6 +9,7 @@ pip -r requirements.txt
 chmod 777 tweet.py
 ./tweet.py
 ```
+> Rename the keys-example.py file to keys.py and put the keys 
 
 ## Commands
 
