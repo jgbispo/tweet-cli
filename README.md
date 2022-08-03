@@ -1,8 +1,4 @@
-# Tweet-CLI
-A CLI to be able to tweet via terminal
-
 ![image](./Tweet-CLI.png)
-
 
 ## HOW TO USE
 ```sh
